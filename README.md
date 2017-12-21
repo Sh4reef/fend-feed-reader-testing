@@ -1,6 +1,6 @@
 FEND - Feed Reader Testing
 ===============================
-![Feed Reader Testing]()
+![Feed Reader Testing](https://github.com/Sh4reef/fend-feed-reader-testing/blob/master/screenshot/Feed%20Reader%20Testing%20-%20Sh4reef.png)
 ### Description
 A Simple feed reader web app with test-driven development using Jasmine.
 ### How to view
