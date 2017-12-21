@@ -129,5 +129,6 @@ $(function() {
      */
     menuIcon.on('click', function() {
         $('body').toggleClass('menu-hidden');
+        // $('body').removeClass('menu-hidden');
     });
 }());
